@@ -167,11 +167,3 @@ cd Stock-trading-Platform
    > The trading terminal will run on `http://localhost:3001` (or next available port).
 
 ---
-
-## 🌟 Future Roadmap & Enhancements
-
-- [ ] **Real-time WebSockets**: Integrate Socket.io / WebSocket feeds for live price tick updates.
-- [ ] **Technical Charting**: Embed TradingView lightweight charts for live candlestick analysis.
-- [ ] **Sell Order Execution**: Enable square-off and sell order placement directly from positions/holdings.
-- [ ] **Payment Gateway Integration**: Add simulated UPI / NetBanking funds deposit gateway.
-- [ ] **Dark Mode**: Add dark mode toggle to the trading terminal.
